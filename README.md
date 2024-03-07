@@ -1,4 +1,4 @@
-## Hi, 👋 my name is David!
+## 👋 Hi, my name is David!
 
 👩🏻‍💻 Senior DevOps Engineer with an OPS background.</br>
 
