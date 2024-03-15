@@ -1,6 +1,14 @@
-## 👋 Hi, I'm David!
+# 👋 Hi, I'm David!
 
-<a href="http://www.github.com/gitdsoares"><img src="https://github-readme-stats.vercel.app/api?username=gitdsoares&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gitdsoares's GitHub stats" /></a>
+<br>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/gitdsoares/node-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=node-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gitdsoares/python-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=python-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/gitdsoares/templates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=templates&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div></br></br></br></br></br>
+
+<br>
 
 ### Skill Set
 <div>
