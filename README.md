@@ -4,11 +4,11 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/gitdsoares/node-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=node-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gitdsoares/python-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=python-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/gitdsoares/node-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=node-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gitdsoares/python-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=python-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div></br></br></br></br></br></br></br>
 
 <div width="100%" align="center"><a href="https://github.com/gitdsoares/templates" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gitdsoares&repo=templates&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div></br></br></br></br></br>
 
-<br>
+</br>
 
 ### Skill Set
 <div>
@@ -22,7 +22,7 @@
   <img align="center" alt="Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Azure DevOps" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
   <img align="center" alt="Github Actions" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img align="center" alt="GitLab" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" /></br>
+  <img align="center" alt="GitLab" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align="center" alt="Jenkins" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
   <img align="center" alt="Windows" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="center" alt="Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
